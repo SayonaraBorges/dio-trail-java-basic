@@ -65,6 +65,6 @@ public class ExemploList {
         notas.clear();
         System.out.println("Confira se a lista está vazia: "+notas.isEmpty());
 
-
-    }
+        
+       }
 }

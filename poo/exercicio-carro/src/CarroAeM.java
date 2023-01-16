@@ -1,15 +1,15 @@
-class Carro {
+class CarroAeM {
     //atributos
     String cor;
     String modelo;
     int capacidadeTanque;
     //construtor
-    Carro(){
+    CarroAeM(){
 
     }
 
     //construtor com sobrecarga
-    Carro(String cor, String modelo, int capacidadeTanque){
+    CarroAeM(String cor, String modelo, int capacidadeTanque){
         this.cor=cor;
         this.modelo=modelo;
         this.capacidadeTanque=capacidadeTanque;
